@@ -1,0 +1,85 @@
+{
+  "replacement_rules": [
+    {
+      "type": "group",
+      "name": "Model",
+      "expanded": true,
+      "children": [
+        {
+          "name": "Handle Replace",
+          "replace_ids": [
+            13753170814
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Soul-Harvester/raw/refs/heads/main/soul%20scythe%20body.obj"
+        },
+        {
+          "name": "Blade Replace",
+          "replace_ids": [
+            13753170893
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Soul-Harvester/raw/refs/heads/main/soul%20scythe%20blade.obj"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "Sounds",
+      "expanded": true,
+      "children": [
+        {
+          "name": "Dash Replace",
+          "replace_ids": [
+            16492958314
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Soul-Harvester/raw/refs/heads/main/soul%20dash.mp3"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "Icon",
+      "expanded": true,
+      "children": [
+        {
+          "name": "Icon Replace",
+          "replace_ids": [
+            17160800186
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Soul-Harvester/blob/main/soul%20harvester%20thumbnail.png?raw=true"
+        },
+        {
+          "name": "Icon Replace 2",
+          "replace_ids": [
+            13834995858
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Soul-Harvester/blob/main/soul%20harvester%20thumbnail%202.png?raw=true"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "Wrap (half White half Bright over Paint)",
+      "expanded": true,
+      "children": [
+        {
+          "name": "Hide Paint Texture",
+          "replace_ids": [
+            "71391425661565:0"
+          ],
+          "mode": "id",
+          "enabled": true
+        }
+      ]
+    }
+  ]
+}
